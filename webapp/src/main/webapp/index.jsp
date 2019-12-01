@@ -1,3 +1,10 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<html>
+<body>
+
+<h2>Kishore</h2>
+<p>Hello</p>
+
+<img src="https://my.naukri.com/Photo/getProfileImage?v=1575187490345" alt="naukri.com" width="104" height="142">
+
+</body>
+</html>
